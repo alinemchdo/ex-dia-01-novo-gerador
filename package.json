@@ -1,0 +1,28 @@
+{
+  "name": "ex-dia-01-novo-gerador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open",
+    "lint": "eslint ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinemchdo/ex-dia-01-novo-gerador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinemchdo/ex-dia-01-novo-gerador/issues"
+  },
+  "homepage": "https://github.com/alinemchdo/ex-dia-01-novo-gerador#readme",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.8.3",
+    "validator": "^13.9.0",
+    "vite": "^4.2.2"
+  },
+  "type": "module"
+}
